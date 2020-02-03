@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Samsung Health Api Consumer</string>
+    <string name="stepCountText">Daily steps:</string>
+    <string name="stepCountAuthorize">Acessing data store. Please authorize app.</string>
+</resources>
