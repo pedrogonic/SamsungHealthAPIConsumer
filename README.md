@@ -8,6 +8,7 @@
   - Creating a new project
   - Developer mode
   - Publishing the app
+- TODO
 - Next Steps
 
 ## Description
@@ -54,6 +55,10 @@ If you wish to disable the Developer mode, you can repeat the process and click 
 
 To publish your app, you must submit it to Samsung's review, afetr registering for Partner APP. The whole process is described in the [documentation](https://developer.samsung.com/health/android/data/programing-guide/process.html).
 
-## Next Steps
+## TODO
 
 All code is contained in the Main Activity. This should be refactored.
+
+## Next Steps
+
+Study all data that is gathered by the framework and whats should/could be stored and analyzed by a custom solution.
